@@ -5,14 +5,14 @@
 }
 body{
     width: 100%;
-    background-image: url(/imagens/yellow.png);
+    background-image: url(/Portifolio/imagens/yellow.png);
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 header{
     width: 100%;
-    background-image: url(/imagens/marrom.png);
+    background-image: url(/Portifolio/imagens/marrom.png);
 }
 nav{
     width: 100%;
@@ -61,7 +61,7 @@ main{
 /* introduçao */
 .introduçao{
     width: 90%;
-    background-image: url(/imagens/textura-de-papel-branco.jpg);
+    background-image: url(/Portifolio/imagens/textura-de-papel-branco.jpg);
     display: flex;
 }
 .main-section-texto{
@@ -91,7 +91,7 @@ main{
     font-size: 5rem;
 }
 .main-section-texto-h1-span{
-    background-image: url(/imagens/marrom.png);
+    background-image: url(/Portifolio/imagens/marrom.png);
     color: #ffee00;
 }
 .main-section-texto-h3{
@@ -127,7 +127,7 @@ main{
 /* sobremim */
 .sobremim{
     width: 90%;
-    background-image: url(/imagens/textura-de-papel-branco.jpg);
+    background-image: url(/Portifolio/imagens/textura-de-papel-branco.jpg);
     display: flex;    
 }
 .sobremim-section-img{
@@ -190,7 +190,7 @@ main{
 /* formacao */
 .formacao{
     width: 90%;
-    background-image: url(/imagens/textura-de-papel-branco.jpg);
+    background-image: url(/Portifolio/imagens/textura-de-papel-branco.jpg);
     display: flex;    
 }
 .formacao-section-selecao{
@@ -217,7 +217,7 @@ main{
     width: 90%;
     padding: 50px 45px 50px 70px;
     border-left: 20px solid rgb(51, 245, 255);
-    background-image: url(/imagens/preto.png);
+    background-image: url(/Portifolio/imagens/preto.png);
     color: rgb(255, 255, 255);
     font-size: 1.2rem;
     transition: 1s ease;
@@ -255,7 +255,7 @@ main{
 /* portifolio */
 .portifolio{
     width: 90%;
-    background-image: url(/imagens/textura-de-papel-branco.jpg);
+    background-image: url(/Portifolio/imagens/textura-de-papel-branco.jpg);
     display: flex;    
 }
 .portifolio-section-img{
@@ -275,14 +275,14 @@ main{
 
 /* os dois primeiros */
 .portifolio-section-works-a-galeria,.portifolio-section-works-a-portifolio{
-    background-image: url(/imagens/yellow.png);
+    background-image: url(/Portifolio/imagens/yellow.png);
     text-align: center;
     padding: 40px 40px;
     border-radius: 50%;
     width: 10%;
 }
 .portifolio-section-works-a-hover{
-    background-image: url(/imagens/yellow.png);
+    background-image: url(/Portifolio/imagens/yellow.png);
     text-align: center;
     padding: 20px 0px;
     border-radius: 20px;
@@ -313,7 +313,7 @@ main{
 
 /* os dois ultimos */
 .portifolio-section-works-a-hqs,.portifolio-section-works-a-templates{
-    background-image: url(/imagens/preto.png);
+    background-image: url(/Portifolio/imagens/preto.png);
     text-align: center;
     padding: 40px 40px;
     border-radius: 50%;
@@ -321,7 +321,7 @@ main{
     width: 10%;    
 }
 .portifolio-section-works-a-hover2{
-    background-image: url(/imagens/preto.png);
+    background-image: url(/Portifolio/imagens/preto.png);
     text-align: center;
     padding: 20px 0px;
     color: white;
@@ -333,7 +333,7 @@ main{
 /* contato */
 .contato{
     width: 90%;
-    background-image: url(/imagens/textura-de-papel-branco.jpg);
+    background-image: url(/Portifolio/imagens/textura-de-papel-branco.jpg);
     display: flex;    
 }
 .contato-section-form{
@@ -413,7 +413,7 @@ main{
 footer{
     width: 100%;
     padding: 20px;
-    background-image: url(/imagens/marrom.png);
+    background-image: url(/Portifolio/imagens/marrom.png);
     display: flex;
     justify-content: center;
 }
