@@ -1,4 +1,7 @@
 /* portifolio */
+
+
+
 const aa = document.getElementsByClassName("portifolio-section-works-a-galeria")[0]
 const ab = document.getElementsByClassName("portifolio-section-works-a-galeria-h2")[0]
 const ac = document.getElementsByClassName("portifolio-section-works-a-galeria-p")[0]
