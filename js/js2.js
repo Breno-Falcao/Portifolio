@@ -1,7 +1,4 @@
 /* portifolio */
-
-
-
 const aa = document.getElementsByClassName("portifolio-section-works-a-galeria")[0]
 const ab = document.getElementsByClassName("portifolio-section-works-a-galeria-h2")[0]
 const ac = document.getElementsByClassName("portifolio-section-works-a-galeria-p")[0]
@@ -18,12 +15,13 @@ const af = document.getElementsByClassName("portifolio-section-works-a-templates
 const abbbb = document.getElementsByClassName("portifolio-section-works-a-galeria-h2")[3]
 const acccc = document.getElementsByClassName("portifolio-section-works-a-galeria-p")[3]
 
-
+/* ao passar o mousse */
 aa.addEventListener("mouseover",function(){
     aa.className="portifolio-section-works-a-hover"
     ab.className="portifolio-section-works-a-h2-display"
     ac.className="portifolio-section-works-a-p-display"
 })
+/* ao retirar o mousse */
 aa.addEventListener("mouseout",function(){
     aa.className="portifolio-section-works-a-galeria"
     ab.className="portifolio-section-works-a-galeria-h2"
